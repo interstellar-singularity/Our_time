@@ -1,0 +1,24 @@
+	body{
+		background-image: url(picture/login.jpg);
+	    background-repeat: no-repeat;
+	    background-attachment: fixed;
+	    background-position: center;
+	    background-size: cover;
+	    font-family: Papyrus;
+	}
+	#model{
+		background: rgba(255,255,255,0.52);
+		box-shadow: 2px 2px 15px 15px rgba(255,255,255,0.52);
+		padding: 40px 40px;
+	}
+	.dia{
+		position: fixed;
+		width: 350px;
+		right: 140px;
+		bottom: 100px;
+	}
+	.h{
+		margin: 30px 50px;
+		font-size: 80px;
+		color: rgba(63,55,22,0.80);
+	}
